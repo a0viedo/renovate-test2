@@ -1,0 +1,27 @@
+{
+  "name": "renovate-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a0viedo/renovate-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a0viedo/renovate-test/issues"
+  },
+  "homepage": "https://github.com/a0viedo/renovate-test#readme",
+  "dependencies": {
+    "lodash": "^4.17.9",
+    "rambda": "^2.4.0",
+    "vuex": "^3.1.0",
+    "walk": "^2.3.13",
+    "winston": "^3.1.0"
+  }
+}
